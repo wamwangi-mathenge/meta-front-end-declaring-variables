@@ -11,4 +11,7 @@ console.log(petDog);
 console.log(petCat);
 
 // console.log the text "My pet dog's name is:" and the petDog variable
-console.log("My pet dog's name is:", petDog)
+console.log("My pet dog's name is:", petDog);
+
+// Console.log the text "My pet cat's name is: " and the petCat variable.
+console.log("My pet cat's name is:", petCat);
