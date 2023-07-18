@@ -15,3 +15,6 @@ console.log("My pet dog's name is:", petDog);
 
 // Console.log the text "My pet cat's name is: " and the petCat variable.
 console.log("My pet cat's name is:", petCat);
+
+// Declare another variable and name it catSound. Assign the string of "purr" to it.
+var catSound = "purr";
