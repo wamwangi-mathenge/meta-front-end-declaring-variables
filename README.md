@@ -1,4 +1,4 @@
-### Exercise: Declaring Variables
+# Exercise: Declaring Variables
 
 In this exercise, you will practice declaring variables
 
