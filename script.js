@@ -24,3 +24,6 @@ var dogSound = "woof";
 
 // Console.log the variable petDog, then the string "says", then the variable dogSound
 console.log(petDog, "says", dogSound);
+
+// Console.log the variable petCat, then the string "says", then the variable catSound.
+console.log(petCat, "says", catSound);
