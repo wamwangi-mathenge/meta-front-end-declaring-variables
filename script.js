@@ -5,4 +5,7 @@ var petDog = "Rex";
 var petCat = "Pepper";
 
 // Console.log the petDog variable
-console.log(petDog)
+console.log(petDog);
+
+// Console.log the petCat variable
+console.log(petCat);
