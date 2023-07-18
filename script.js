@@ -21,3 +21,6 @@ var catSound = "purr";
 
 // Declare another variable and name it dogSound. Assign the string of "woof" to it.
 var dogSound = "woof";
+
+// Console.log the variable petDog, then the string "says", then the variable dogSound
+console.log(petDog, "says", dogSound);
