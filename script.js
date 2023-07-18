@@ -9,3 +9,6 @@ console.log(petDog);
 
 // Console.log the petCat variable
 console.log(petCat);
+
+// console.log the text "My pet dog's name is:" and the petDog variable
+console.log("My pet dog's name is:", petDog)
