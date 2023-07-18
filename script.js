@@ -30,3 +30,6 @@ console.log(petCat, "says", catSound);
 
 // Reassign the value stored in catSound to the string "meow".
 catSound = "meow";
+
+// Console.log the variable petCat, then the string "now says", then the variable catSound.
+console.log(petCat, "now says", catSound);
